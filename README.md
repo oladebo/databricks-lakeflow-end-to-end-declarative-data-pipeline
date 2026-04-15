@@ -3,6 +3,8 @@ Databricks lakeflow end to end  Sales declarative data pipeline
 
 
 Databricks Lakeflow End-to-End Declarative Data Pipeline
+
+
 📌 Overview
 
 This project demonstrates an end-to-end declarative data pipeline built using Databricks Lakeflow. It follows modern data engineering best practices using a medallion architecture (Bronze, Silver, Gold) to process, transform, and serve data for analytics and reporting.
