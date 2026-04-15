@@ -51,21 +51,7 @@ The project follows the Medallion Architecture:
 
 📂 Project Structure
 
- databricks-lakeflow-pipeline
-│
-├── 📁 bronze
-│   └── ingestion.py
-│
-├── 📁 silver
-│   └── transformation.py
-│
-├── 📁 gold
-│   └── aggregation.py
-│
-├── 📁 config
-│   └── pipeline_config.json
-│
-├── README.md
+
 
 
 🔄 Pipeline Flow
