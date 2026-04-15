@@ -51,6 +51,7 @@ The project follows the Medallion Architecture:
 
 📂 Project Structure
 
+![image alt](https://github.com/oladebo/databricks-lakeflow-end-to-end-declarative-data-pipeline/blob/9c3397db4623a44b94c8c5a2728611935b1d6465/Screen%20Shot%202026-04-15%20at%2014.32.18.png)
 
 
 
