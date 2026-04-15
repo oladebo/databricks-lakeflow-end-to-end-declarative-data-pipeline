@@ -13,7 +13,7 @@ The pipeline leverages Delta Live Tables (DLT) and declarative transformations t
 
 🧱 Architecture
 
-The project follows the Medallion Architecture:
+The project follows the Medallion Architecture
 
 🔹 Bronze Layer (Raw Ingestion)
 - Ingest raw data from source systems (e.g., APIs, CSV, JSON, streaming sources)
